@@ -17,7 +17,7 @@ status-website:
   introMessage: "[source](https://github.com/lizinowfinance/nowfinance-uptime)"
   navbar:
     - title: Status
-      href: /
+      href: https://github.com/lizinowfinance/nowfinance-uptime
     - title: GitHub
       href: https://github.com/lizinowfinance/nowfinance-uptime
 
