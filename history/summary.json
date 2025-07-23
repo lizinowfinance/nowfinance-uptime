@@ -4,18 +4,19 @@
     "url": "https://www.nowfinance.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.nowfinance.com.au.ico",
     "slug": "now-finance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 939,
-    "timeDay": 889,
-    "timeWeek": 882,
-    "timeMonth": 939,
-    "timeYear": 939,
+    "time": 934,
+    "timeDay": 787,
+    "timeWeek": 870,
+    "timeMonth": 934,
+    "timeYear": 934,
     "dailyMinutesDown": {
+      "2025-07-23": 0,
       "2025-07-21": 49
     }
   }
